@@ -7,7 +7,7 @@
  groups to satisfy demands with various strategies. Moreover, those strategies can be an input of the:
 
 i) Focused marketing efforts on particular demographics
-ii) Iintroduction of features in line with user deman
+ii) Introduction of features in line with user deman
 iii) Creation of the product roadmapap
 
 
