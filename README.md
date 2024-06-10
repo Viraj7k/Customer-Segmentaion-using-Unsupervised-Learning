@@ -21,3 +21,49 @@ for this we will try and explore different clustering techniques and perform a c
 similar characteristics of customer preferences and purchasing history and allow companies to market to each gorup more efficiently. 
 We shall further develop some clustering models to gain better understandidng of the type of the customer.
 This includes clustering algorithms such as K-means, Hierarchical Clustering and DBSCAN.
+
+Required Libraries
+Ensure the following Python libraries installed:
+•⁠  ⁠pandas: Use	d for data manipulation and analysis.
+pip install pandas
+
+•⁠  ⁠numpy: Provides support for large, multi-dimensional arrays and matrices.
+pip install numpy
+
+•⁠  ⁠matplotlib: Utilized for creating static, animated, and interactive visualizations.
+pip install matplotlib
+
+•⁠  ⁠seaborn:  Based on matplotlib, it provides a high-level interface for drawing attractive statistical graphics.
+pip install seaborn
+
+•⁠  ⁠sklearn: A machine learning library used for implementing clustering algorithms like K-means and DBSCAN.
+pip install sklearn
+
+Steps to Execute the Script:
+
+Ensure the dataset is in the same directory as the script (if the script reads from a file).
+
+Open a terminal or command prompt.
+
+Navigate to the directory containing the script.
+
+1.⁠ ⁠Prepare the Environment:
+  Ensure to have Python installed on your system
+  Python 3.7 or higher
+  Jupyter Notebook
+
+2. ⁠Install Required Libraries:
+   Use the pip command provided above to install the necessary libraries.
+
+3. Execute the Script:
+   Run the script using a Python interpreter. You can do this by navigating to the directory     containing the script and running the following command in your terminal or command prompt:
+python /”Directory Path”/Final_Customer_Segmentation.py
+
+Or you can execute in the Jupyter Notebook.
+
+4.⁠ ⁠Review the Output:
+   The script will perform customer segmentation using K-means and DBSCAN algorithms and output the results.
+
+5.Expected Output
+  ⁠Clustered data visualizations
+  Printed output of cluster characteristics
