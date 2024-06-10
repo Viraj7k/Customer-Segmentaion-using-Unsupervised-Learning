@@ -14,7 +14,6 @@ iii) Creation of the product roadmapap
 We are going perform segmentation by using the following 3 algorithms
 
 i) K-means
-ii) Hierarchical
 iii) DBSCAN (Density Based Spatial Clustering of Applications with Noise)
 
 Primary goal to help data supermarket increase their business by getting more memberships.
